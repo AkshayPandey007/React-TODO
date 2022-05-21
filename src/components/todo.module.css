@@ -1,0 +1,13 @@
+.todo{
+    display: flex;
+    margin-left: 45%;
+    margin-top: 10px;
+    max-width: 200px;
+}
+
+
+.striked{
+    text-decoration: line-through;
+}
+
+.btn{margin-left: 30px;}
